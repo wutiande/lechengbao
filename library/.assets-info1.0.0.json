@@ -1,0 +1,345 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "C:\\Users\\abc\\NewProject_1\\assets\\prefab.meta": {
+      "time": 1711342741428.6863
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\prefab": {
+      "time": 1711358236386.1614,
+      "uuid": "80435b2b-be22-4280-b75a-df6d57150457"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture.meta": {
+      "time": 1711342751539.8562
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture": {
+      "time": 1711358185367.192,
+      "uuid": "471b29ef-7482-43a9-b2ba-f265e421315a"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\effect.meta": {
+      "time": 1711342760988.6619
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\effect": {
+      "time": 1711342760977.614,
+      "uuid": "58e32eb2-d93e-44af-b677-ac07eaeabb64"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\resources.meta": {
+      "time": 1711342768933.7217
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\resources": {
+      "time": 1711342768931.722,
+      "uuid": "53407a6b-5d16-4f37-a71f-47000d510a81"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\scene.meta": {
+      "time": 1711342779749.953
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\scene": {
+      "time": 1711342814581.8975,
+      "uuid": "f792f73e-9a6b-4fb0-94ac-83112a4be9d0"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\scripts.meta": {
+      "time": 1711342784323.4832
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\scripts": {
+      "time": 1711342795142.7654,
+      "uuid": "1ea78d4e-bbca-4323-b616-165897faf94c"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\scripts\\Main.ts.meta": {
+      "time": 1711342795143.763
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\scripts\\Main.ts": {
+      "time": 1711361710371.3113,
+      "uuid": "7453bc99-d554-4943-8687-67f56636a15d"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\scene\\Main.scene.meta": {
+      "time": 1711342814593.406
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\scene\\Main.scene": {
+      "time": 1711362011633.838,
+      "uuid": "345cb634-ea7b-4a01-a70b-826488a7b882"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\back.png.meta": {
+      "time": 1711342838650.6333
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\back.png": {
+      "time": 1628146366000,
+      "uuid": "ec1dbb6a-b861-45be-a7c2-42a19d08ed02"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\return.png.meta": {
+      "time": 1711343362540.0986
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\return.png": {
+      "time": 1711343321384.6155,
+      "uuid": "d4253a29-0db7-4224-8b21-3babc7dbd926"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\Snipaste_2024-03-25_12-47-14.png.meta": {
+      "time": 1711344459359.6802
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\Snipaste_2024-03-25_12-47-14.png": {
+      "time": 1711342037853.8433,
+      "uuid": "5cd361d1-5625-4e51-b137-ddf5bcecec2f"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\Rectangle 369.png.meta": {
+      "time": 1711349596017.345
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\Rectangle 369.png": {
+      "time": 1628146366000,
+      "uuid": "4aeec716-cdf1-4f04-8e2c-b662f741d03b"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\rectangle.png.meta": {
+      "time": 1711349634753.5332
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\rectangle.png": {
+      "time": 1711349621765.7441,
+      "uuid": "706e5226-61b1-4823-9820-8f3fb33fbbbe"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\prefab\\item.prefab.meta": {
+      "time": 1711349693466.2122
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\prefab\\item.prefab": {
+      "time": 1711355320323.9893,
+      "uuid": "826b7971-cfcc-45ab-9dec-babc04872f7a"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\button1.png.meta": {
+      "time": 1711358177105.4536
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\button1.png": {
+      "time": 1711343926483.1238,
+      "uuid": "cc2ee3b3-0d05-4884-85ff-6e4df18f7dde"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\button.png.meta": {
+      "time": 1711358185385.1917
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\picture\\button.png": {
+      "time": 1606532737000,
+      "uuid": "dcff76f9-fa35-4bf1-85c4-9f37e7988acc"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\prefab\\playBtn.prefab.meta": {
+      "time": 1711358236388.1616
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\prefab\\playBtn.prefab": {
+      "time": 1711361467054.5889,
+      "uuid": "84de8af2-d180-4979-95ab-47c2933d27b5"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\animation.meta": {
+      "time": 1711358356074.3467
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\animation": {
+      "time": 1711360241165.321,
+      "uuid": "4b588f86-2e12-485b-beb7-960396d95bce"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\animation\\playShow.anim.meta": {
+      "time": 1711358394339.287
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\animation\\playShow.anim": {
+      "time": 1711360128098.0256,
+      "uuid": "151b0899-0823-4e0f-9912-c9e682b0f792"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\animation\\playIdle.anim.meta": {
+      "time": 1711359340516.9062
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\animation\\playIdle.anim": {
+      "time": 1711359654134.8567,
+      "uuid": "276de3a1-ef5e-4493-99ee-e6597e44bfdf"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\animation\\playClick.anim.meta": {
+      "time": 1711359637927.1863
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\animation\\playClick.anim": {
+      "time": 1711360244600.327,
+      "uuid": "318f8e3b-5743-48fa-adf6-adee4fb3317b"
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\animation\\playClickUp.anim.meta": {
+      "time": 1711360241167.322
+    },
+    "C:\\Users\\abc\\NewProject_1\\assets\\animation\\playClickUp.anim": {
+      "time": 1711360390667.0923,
+      "uuid": "1bdbe67f-a8a3-4841-97bb-46478dcabcc4"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\animation": {
+      "time": 1711365920220.4812,
+      "uuid": "4b588f86-2e12-485b-beb7-960396d95bce"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\effect": {
+      "time": 1711342760977.614,
+      "uuid": "58e32eb2-d93e-44af-b677-ac07eaeabb64"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture": {
+      "time": 1711365920251.7278,
+      "uuid": "471b29ef-7482-43a9-b2ba-f265e421315a"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\prefab": {
+      "time": 1711365920251.7278,
+      "uuid": "80435b2b-be22-4280-b75a-df6d57150457"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\resources": {
+      "time": 1711342768931.722,
+      "uuid": "53407a6b-5d16-4f37-a71f-47000d510a81"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\scene": {
+      "time": 1711365920267.3513,
+      "uuid": "f792f73e-9a6b-4fb0-94ac-83112a4be9d0"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\scripts": {
+      "time": 1711365920267.3513,
+      "uuid": "1ea78d4e-bbca-4323-b616-165897faf94c"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\scripts\\Main.ts": {
+      "time": 1711361710371.3113,
+      "uuid": "7453bc99-d554-4943-8687-67f56636a15d"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\animation.meta": {
+      "time": 1711358356074.3467
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\effect.meta": {
+      "time": 1711342760988.6619
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture.meta": {
+      "time": 1711342751539.8562
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\prefab.meta": {
+      "time": 1711342741428.6863
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\resources.meta": {
+      "time": 1711342768933.7217
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\scene.meta": {
+      "time": 1711342779749.953
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\scripts.meta": {
+      "time": 1711342784323.4832
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\scripts\\Main.ts.meta": {
+      "time": 1711342795143.763
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\animation\\playClick.anim": {
+      "time": 1711360244600.327,
+      "uuid": "318f8e3b-5743-48fa-adf6-adee4fb3317b"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\animation\\playClickUp.anim": {
+      "time": 1711360390667.0923,
+      "uuid": "1bdbe67f-a8a3-4841-97bb-46478dcabcc4"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\animation\\playIdle.anim": {
+      "time": 1711359654134.8567,
+      "uuid": "276de3a1-ef5e-4493-99ee-e6597e44bfdf"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\animation\\playShow.anim": {
+      "time": 1711360128098.0256,
+      "uuid": "151b0899-0823-4e0f-9912-c9e682b0f792"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\back.png": {
+      "time": 1628146366000,
+      "uuid": "ec1dbb6a-b861-45be-a7c2-42a19d08ed02"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\button.png": {
+      "time": 1606532737000,
+      "uuid": "dcff76f9-fa35-4bf1-85c4-9f37e7988acc"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\button1.png": {
+      "time": 1711343926483.1238,
+      "uuid": "cc2ee3b3-0d05-4884-85ff-6e4df18f7dde"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\Rectangle 369.png": {
+      "time": 1628146366000,
+      "uuid": "4aeec716-cdf1-4f04-8e2c-b662f741d03b"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\rectangle.png": {
+      "time": 1711349621765.7441,
+      "uuid": "706e5226-61b1-4823-9820-8f3fb33fbbbe"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\return.png": {
+      "time": 1711343321384.6155,
+      "uuid": "d4253a29-0db7-4224-8b21-3babc7dbd926"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\Snipaste_2024-03-25_12-47-14.png": {
+      "time": 1711342037853.8433,
+      "uuid": "5cd361d1-5625-4e51-b137-ddf5bcecec2f"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\prefab\\item.prefab": {
+      "time": 1711355320323.9893,
+      "uuid": "826b7971-cfcc-45ab-9dec-babc04872f7a"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\prefab\\playBtn.prefab": {
+      "time": 1711361467054.5889,
+      "uuid": "84de8af2-d180-4979-95ab-47c2933d27b5"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\scene\\Main.scene": {
+      "time": 1711362011633.838,
+      "uuid": "345cb634-ea7b-4a01-a70b-826488a7b882"
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\animation\\playShow.anim.meta": {
+      "time": 1711358394339.287
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\animation\\playIdle.anim.meta": {
+      "time": 1711359340516.9062
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\animation\\playClickUp.anim.meta": {
+      "time": 1711360241167.322
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\animation\\playClick.anim.meta": {
+      "time": 1711359637927.1863
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\button1.png.meta": {
+      "time": 1711358177105.4536
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\rectangle.png.meta": {
+      "time": 1711349634753.5332
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\Rectangle 369.png.meta": {
+      "time": 1711349596017.345
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\back.png.meta": {
+      "time": 1711342838650.6333
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\button.png.meta": {
+      "time": 1711358185385.1917
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\prefab\\item.prefab.meta": {
+      "time": 1711349693466.2122
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\prefab\\playBtn.prefab.meta": {
+      "time": 1711358236388.1616
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\scene\\Main.scene.meta": {
+      "time": 1711342814593.406
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\return.png.meta": {
+      "time": 1711343362540.0986
+    },
+    "F:\\cocosCreator\\lechengbao\\assets\\picture\\Snipaste_2024-03-25_12-47-14.png.meta": {
+      "time": 1711344459359.6802
+    }
+  },
+  "missing": {
+    "5889af86-9f3c-4f41-9122-e4f2da797c2e": {
+      "path": "C:\\Users\\abc\\NewProject_1\\assets\\scene\\folder",
+      "time": 1711342805221.8643,
+      "removeTime": 1711342808940
+    },
+    "b762d3ee-d8c2-4c31-b148-e39f73c8d0b5": {
+      "path": "C:\\Users\\abc\\NewProject_1\\assets\\prefab\\Node.prefab",
+      "time": 1711343885576.4712,
+      "removeTime": 1711343890215
+    },
+    "17f70702-b173-4438-9adb-a35755e7e522": {
+      "path": "C:\\Users\\abc\\NewProject_1\\assets\\picture\\button.png",
+      "time": 1711343926483.1238,
+      "removeTime": 1711358127190
+    },
+    "947580fc-9f94-4f87-8d1f-3e3653cce219": {
+      "path": "C:\\Users\\abc\\NewProject_1\\assets\\picture\\button1.png",
+      "time": 1711343926483.1238,
+      "removeTime": 1711358143193
+    },
+    "cc2ee3b3-0d05-4884-85ff-6e4df18f7dde": {
+      "path": "C:\\Users\\abc\\NewProject_1\\assets\\picture\\button.png",
+      "time": 1711343926483.1238,
+      "removeTime": 1711358177095
+    },
+    "151b0899-0823-4e0f-9912-c9e682b0f792": {
+      "path": "C:\\Users\\abc\\NewProject_1\\assets\\animation\\animation.anim",
+      "time": 1711358366337.1978,
+      "removeTime": 1711358394336
+    }
+  }
+}

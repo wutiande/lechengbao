@@ -1,0 +1,218 @@
+2024-3-25 19:25:46-log: Cannot access game frame or container.
+2024-3-25 19:25:46-debug: asset-db:require-engine-code (490ms)
+2024-3-25 19:25:46-log: meshopt wasm decoder initialized
+2024-3-25 19:25:46-log: [box2d]:box2d wasm lib loaded.
+2024-3-25 19:25:46-log: [bullet]:bullet wasm lib loaded.
+2024-3-25 19:25:46-log: Cocos Creator v3.8.2
+2024-3-25 19:25:47-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:19.34MB, end 105.19MB, increase: 85.84MB
+2024-3-25 19:25:47-debug: [Assets Memory track]: asset-db-plugin-register: programming start:105.85MB, end 110.03MB, increase: 4.18MB
+2024-3-25 19:25:47-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:110.08MB, end 114.00MB, increase: 3.92MB
+2024-3-25 19:25:47-debug: [Assets Memory track]: asset-db-plugin-enable: project start:110.23MB, end 114.01MB, increase: 3.78MB
+2024-3-25 19:25:47-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:105.20MB, end 114.01MB, increase: 8.82MB
+2024-3-25 19:25:47-debug: asset-db:worker-init: initPlugin (161ms)
+2024-3-25 19:25:47-debug: [Assets Memory track]: asset-db:worker-init start:19.34MB, end 108.38MB, increase: 89.03MB
+2024-3-25 19:25:47-debug: Run asset db hook programming:beforePreStart ...
+2024-3-25 19:25:47-debug: Run asset db hook programming:beforePreStart success!
+2024-3-25 19:25:47-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-3-25 19:25:48-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:131.59MB, end 254.92MB, increase: 123.33MB
+2024-3-25 19:25:47-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-3-25 19:25:48-debug: run package(shortcuts) handler(enable) start
+2024-3-25 19:25:48-debug: run package(builder) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(shortcuts) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(animation-graph) handler(enable) start
+2024-3-25 19:25:48-debug: run package(animation-graph) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(about) handler(enable) start
+2024-3-25 19:25:48-debug: run package(about) handler(enable) success!
+2024-3-25 19:25:47-debug: run package(builder) handler(enable) start
+2024-3-25 19:25:48-debug: run package(assets) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(assets) handler(enable) start
+2024-3-25 19:25:48-debug: run package(console) handler(enable) start
+2024-3-25 19:25:48-debug: run package(console) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(crash-reporter) handler(enable) start
+2024-3-25 19:25:48-debug: asset-db:worker-init (1595ms)
+2024-3-25 19:25:48-debug: run package(crash-reporter) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(extension) handler(enable) start
+2024-3-25 19:25:48-debug: asset-db-hook-engine-extends-beforePreStart (391ms)
+2024-3-25 19:25:48-debug: run package(hierarchy) handler(enable) start
+2024-3-25 19:25:48-debug: asset-db-hook-programming-beforePreStart (392ms)
+2024-3-25 19:25:48-debug: run package(extension) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(hierarchy) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(light-probe) handler(enable) start
+2024-3-25 19:25:48-debug: run package(inspector) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(light-probe) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(lightmap) handler(enable) start
+2024-3-25 19:25:48-debug: run package(inspector) handler(enable) start
+2024-3-25 19:25:48-debug: run package(node-library) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(lightmap) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(node-library) handler(enable) start
+2024-3-25 19:25:48-debug: run package(package-asset) handler(enable) start
+2024-3-25 19:25:48-debug: run package(package-asset) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(reference-image) handler(enable) start
+2024-3-25 19:25:48-debug: run package(process) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(reference-image) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(reflection-probe) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(reflection-probe) handler(enable) start
+2024-3-25 19:25:48-debug: run package(engine-extends) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(adsense-h5g-plugin) handler(enable) start
+2024-3-25 19:25:48-debug: run package(adsense-h5g-plugin) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(engine-extends) handler(enable) start
+2024-3-25 19:25:48-debug: run package(alipay-mini-game) handler(enable) start
+2024-3-25 19:25:48-debug: run package(alipay-mini-game) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(android) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(bytedance-mini-game) handler(enable) start
+2024-3-25 19:25:48-debug: run package(android) handler(enable) start
+2024-3-25 19:25:48-debug: run package(certificate) handler(enable) start
+2024-3-25 19:25:48-debug: run package(bytedance-mini-game) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(certificate) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(channel-upload-tools) handler(enable) start
+2024-3-25 19:25:48-debug: run package(channel-upload-tools) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(fb-instant-games) handler(enable) start
+2024-3-25 19:25:48-debug: run package(fb-instant-games) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(huawei-agc) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(huawei-quick-game) handler(enable) start
+2024-3-25 19:25:48-debug: run package(huawei-quick-game) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(ios) handler(enable) start
+2024-3-25 19:25:48-debug: run package(process) handler(enable) start
+2024-3-25 19:25:48-debug: run package(ios) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(linux) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(huawei-agc) handler(enable) start
+2024-3-25 19:25:48-debug: run package(linux) handler(enable) start
+2024-3-25 19:25:48-debug: run package(mac) handler(enable) start
+2024-3-25 19:25:48-debug: run package(mac) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(native) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(native) handler(enable) start
+2024-3-25 19:25:48-debug: run package(ohos) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(openharmony) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(openharmony) handler(enable) start
+2024-3-25 19:25:48-debug: run package(oppo-mini-game) handler(enable) start
+2024-3-25 19:25:48-debug: run package(runtime-dev-tools) handler(enable) start
+2024-3-25 19:25:48-debug: run package(oppo-mini-game) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(runtime-dev-tools) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(ohos) handler(enable) start
+2024-3-25 19:25:48-debug: run package(taobao-mini-game) handler(enable) start
+2024-3-25 19:25:48-debug: run package(taobao-creative-app) handler(enable) start
+2024-3-25 19:25:48-debug: run package(taobao-creative-app) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(taobao-mini-game) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(web-desktop) handler(enable) start
+2024-3-25 19:25:48-debug: run package(vivo-mini-game) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(vivo-mini-game) handler(enable) start
+2024-3-25 19:25:48-debug: run package(web-desktop) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(web-mobile) handler(enable) start
+2024-3-25 19:25:48-debug: run package(web-mobile) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(wechatgame) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(wechatgame) handler(enable) start
+2024-3-25 19:25:48-debug: run package(wechatprogram) handler(enable) start
+2024-3-25 19:25:48-debug: run package(wechatprogram) handler(enable) success!
+2024-3-25 19:25:48-debug: Preimport db internal success
+2024-3-25 19:25:48-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\animationbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:48-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\prefabbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:48-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picturebackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:48-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\resourcesbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:48-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\scenebackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:48-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\effectbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:48-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\scriptsbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:48-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\scripts\Main.tsbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:48-debug: Preimport db assets success
+2024-3-25 19:25:48-debug: Run asset db hook programming:afterPreStart ...
+2024-3-25 19:25:48-debug: starting packer-driver...
+2024-3-25 19:25:48-debug: run package(windows) handler(enable) start
+2024-3-25 19:25:48-debug: run package(windows) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(xiaomi-quick-game) handler(enable) start
+2024-3-25 19:25:48-debug: run package(xiaomi-quick-game) handler(enable) success!
+2024-3-25 19:25:48-debug: run package(cocos-service) handler(enable) start
+2024-3-25 19:25:48-debug: run package(cocos-service) handler(enable) success!
+2024-3-25 19:25:49-debug: run package(im-plugin) handler(enable) start
+2024-3-25 19:25:49-debug: run package(im-plugin) handler(enable) success!
+2024-3-25 19:25:49-debug: run package(fix-device) handler(enable) start
+2024-3-25 19:25:49-debug: run package(fix-device) handler(enable) success!
+2024-3-25 19:25:49-debug: run package(placeholder) handler(enable) start
+2024-3-25 19:25:49-debug: run package(placeholder) handler(enable) success!
+2024-3-25 19:25:49-debug: initialize scripting environment...
+2024-3-25 19:25:49-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-3-25 19:25:49-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-3-25 19:25:49-debug: [Assets Memory track]: asset-db:worker-init: preStart start:108.38MB, end 255.38MB, increase: 147.00MB
+2024-3-25 19:25:49-debug: Run asset db hook programming:afterPreStart success!
+2024-3-25 19:25:49-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-3-25 19:25:49-debug: Start up the 'internal' database...
+2024-3-25 19:25:49-debug: asset-db-hook-programming-afterPreStart (1023ms)
+2024-3-25 19:25:49-debug: asset-db:worker-effect-data-processing (8ms)
+2024-3-25 19:25:49-debug: asset-db-hook-engine-extends-afterPreStart (8ms)
+2024-3-25 19:25:49-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:130.41MB, end 256.61MB, increase: 126.21MB
+2024-3-25 19:25:49-debug: Start up the 'assets' database...
+2024-3-25 19:25:49-debug: asset-db:worker-startup-database[internal] (2122ms)
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\animation\playClick.animbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\animation\playShow.animbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\animation\playClickUp.animbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\animation\playIdle.animbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\back.pngbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\button1.pngbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\rectangle.pngbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\button.pngbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\Rectangle 369.pngbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\back.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\back.png@f9941background: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\button1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\rectangle.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\button.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\Rectangle 369.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\button1.png@f9941background: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\rectangle.png@f9941background: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\button.png@f9941background: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\Rectangle 369.png@f9941background: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\prefab\item.prefabbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\prefab\playBtn.prefabbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\return.pngbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\Snipaste_2024-03-25_12-47-14.pngbackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\scene\Main.scenebackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\return.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\Snipaste_2024-03-25_12-47-14.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\Snipaste_2024-03-25_12-47-14.png@f9941background: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: %cImport%c: F:\cocosCreator\lechengbao\assets\picture\return.png@f9941background: #aaff85; color: #000;color: #000;
+2024-3-25 19:25:49-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:256.56MB, end 259.34MB, increase: 2.78MB
+2024-3-25 19:25:49-debug: [Assets Memory track]: asset-db:worker-init: startup start:255.39MB, end 259.35MB, increase: 3.96MB
+2024-3-25 19:25:49-debug: asset-db:worker-startup-database[assets] (1105ms)
+2024-3-25 19:25:49-debug: asset-db:start-database (2492ms)
+2024-3-25 19:25:49-debug: asset-db:ready (5237ms)
+2024-3-25 19:25:49-debug: init worker message success
+2024-3-25 19:25:50-debug: [Build Memory track]: builder:worker-init start:261.42MB, end 272.42MB, increase: 11.00MB
+2024-3-25 19:25:50-debug: builder:worker-init (306ms)
+2024-3-25 19:25:50-debug: programming:execute-script (-9ms)
+2024-3-25 19:25:51-debug: programming:execute-script (-11ms)
+2024-3-25 19:25:55-debug: Query all assets info in project
+2024-3-25 19:25:55-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-3-25 19:25:55-debug:   Number of other assets: 351
+2024-3-25 19:25:55-debug:   Number of all scenes: 1
+2024-3-25 19:25:55-debug:   Number of all scripts: 2
+2024-3-25 19:25:55-debug: 查询 Asset Bundle start, progress: 0%
+2024-3-25 19:25:55-debug: // ---- build task 查询 Asset Bundle ----
+2024-3-25 19:25:55-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-3-25 19:25:55-debug: // ---- build task 查询 Asset Bundle ---- (15ms)
+2024-3-25 19:25:55-debug: [Build Memory track]: 查询 Asset Bundle start:276.10MB, end 194.90MB, increase: -83151.11KB
+2024-3-25 19:25:55-debug: run build task 查询 Asset Bundle success in 15 ms√, progress: 5%
+2024-3-25 19:25:55-debug: 查询 Asset Bundle start, progress: 5%
+2024-3-25 19:25:55-debug: // ---- build task 查询 Asset Bundle ----
+2024-3-25 19:25:55-debug: // ---- build task 查询 Asset Bundle ---- (-13ms)
+2024-3-25 19:25:55-debug: run build task 查询 Asset Bundle success in -1 h -1 min -1 s√, progress: 10%
+2024-3-25 19:25:55-debug: [Build Memory track]: 查询 Asset Bundle start:194.92MB, end 194.93MB, increase: 15.61KB
+2024-3-25 19:25:55-debug: 整理部分构建选项内数据到 settings.json start, progress: 10%
+2024-3-25 19:25:55-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-3-25 19:25:55-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (-14ms)
+2024-3-25 19:25:55-debug: run build task 整理部分构建选项内数据到 settings.json success in -1 h -1 min -1 s√, progress: 12%
+2024-3-25 19:25:55-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:194.95MB, end 194.97MB, increase: 20.95KB
+2024-3-25 19:25:55-debug: 填充脚本数据到 settings.json start, progress: 12%
+2024-3-25 19:25:55-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-3-25 19:25:55-debug: // ---- build task 填充脚本数据到 settings.json ---- (-14ms)
+2024-3-25 19:25:55-debug: run build task 填充脚本数据到 settings.json success in -1 h -1 min -1 s√, progress: 13%
+2024-3-25 19:25:55-debug: [Build Memory track]: 填充脚本数据到 settings.json start:194.98MB, end 195.00MB, increase: 16.21KB
+2024-3-25 19:25:55-debug: 整理部分构建选项内数据到 settings.json start, progress: 13%
+2024-3-25 19:25:55-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-3-25 19:25:55-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (-12ms)
+2024-3-25 19:25:55-debug: run build task 整理部分构建选项内数据到 settings.json success in -1 h -1 min -1 s√, progress: 15%
+2024-3-25 19:25:55-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:195.01MB, end 195.14MB, increase: 127.91KB
+2024-3-25 19:26:09-debug: refresh db internal success
+2024-3-25 19:26:09-debug: refresh db assets success
+2024-3-25 19:26:09-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-3-25 19:26:09-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-3-25 19:26:09-debug: asset-db:refresh-all-database (36ms)
+2024-3-25 19:26:09-debug: asset-db:worker-effect-data-processing (-12ms)
+2024-3-25 19:26:09-debug: asset-db-hook-engine-extends-afterRefresh (-12ms)

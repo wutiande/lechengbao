@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button1",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 149,
+      "height": 64
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 149,
+      "height": 64
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -74.5,
+        -32,
+        0,
+        74.5,
+        -32,
+        0,
+        -74.5,
+        32,
+        0,
+        74.5,
+        32,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        64,
+        149,
+        64,
+        0,
+        0,
+        149,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -74.5,
+        "y": -32,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 74.5,
+        "y": 32,
+        "z": 0
+      }
+    },
+    "texture": "cc2ee3b3-0d05-4884-85ff-6e4df18f7dde@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

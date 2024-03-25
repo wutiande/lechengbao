@@ -1,0 +1,348 @@
+{
+  "80435b2b-be22-4280-b75a-df6d57150457": {
+    "url": "db://assets/prefab",
+    "value": {},
+    "versionCode": 0
+  },
+  "471b29ef-7482-43a9-b2ba-f265e421315a": {
+    "url": "db://assets/picture",
+    "value": {},
+    "versionCode": 0
+  },
+  "58e32eb2-d93e-44af-b677-ac07eaeabb64": {
+    "url": "db://assets/effect",
+    "value": {},
+    "versionCode": 0
+  },
+  "53407a6b-5d16-4f37-a71f-47000d510a81": {
+    "url": "db://assets/resources",
+    "value": {},
+    "versionCode": 0
+  },
+  "f792f73e-9a6b-4fb0-94ac-83112a4be9d0": {
+    "url": "db://assets/scene",
+    "value": {},
+    "versionCode": 0
+  },
+  "1ea78d4e-bbca-4323-b616-165897faf94c": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 0
+  },
+  "7453bc99-d554-4943-8687-67f56636a15d": {
+    "url": "db://assets/scripts/Main.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "5889af86-9f3c-4f41-9122-e4f2da797c2e": {
+    "url": "db://assets/scene/folder",
+    "value": {},
+    "versionCode": 0
+  },
+  "345cb634-ea7b-4a01-a70b-826488a7b882": {
+    "url": "db://assets/scene/Main.scene",
+    "value": {
+      "depends": [
+        "345cb634-ea7b-4a01-a70b-826488a7b882",
+        "5cd361d1-5625-4e51-b137-ddf5bcecec2f@f9941",
+        "cc2ee3b3-0d05-4884-85ff-6e4df18f7dde@f9941",
+        "bd1bcaba-bd7d-4a71-b143-997c882383e4@f9941",
+        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
+        "826b7971-cfcc-45ab-9dec-babc04872f7a",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "706e5226-61b1-4823-9820-8f3fb33fbbbe@f9941",
+        "84de8af2-d180-4979-95ab-47c2933d27b5",
+        "ec1dbb6a-b861-45be-a7c2-42a19d08ed02@f9941"
+      ],
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "7453bc99-d554-4943-8687-67f56636a15d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ec1dbb6a-b861-45be-a7c2-42a19d08ed02": {
+    "url": "db://assets/picture/back.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "ec1dbb6a-b861-45be-a7c2-42a19d08ed02@6c48a": {
+    "url": "db://assets/picture/back.png@6c48a",
+    "value": {
+      "depends": [
+        "ec1dbb6a-b861-45be-a7c2-42a19d08ed02"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ec1dbb6a-b861-45be-a7c2-42a19d08ed02@f9941": {
+    "url": "db://assets/picture/back.png@f9941",
+    "value": {
+      "depends": [
+        "ec1dbb6a-b861-45be-a7c2-42a19d08ed02@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d4253a29-0db7-4224-8b21-3babc7dbd926": {
+    "url": "db://assets/picture/return.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "d4253a29-0db7-4224-8b21-3babc7dbd926@6c48a": {
+    "url": "db://assets/picture/return.png@6c48a",
+    "value": {
+      "depends": [
+        "d4253a29-0db7-4224-8b21-3babc7dbd926"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d4253a29-0db7-4224-8b21-3babc7dbd926@f9941": {
+    "url": "db://assets/picture/return.png@f9941",
+    "value": {
+      "depends": [
+        "d4253a29-0db7-4224-8b21-3babc7dbd926@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b762d3ee-d8c2-4c31-b148-e39f73c8d0b5": {
+    "url": "db://assets/prefab/Node.prefab",
+    "value": {},
+    "versionCode": 0
+  },
+  "17f70702-b173-4438-9adb-a35755e7e522": {
+    "url": "db://assets/picture/button.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "17f70702-b173-4438-9adb-a35755e7e522@6c48a": {
+    "url": "db://assets/picture/button.png@6c48a",
+    "value": {
+      "depends": [
+        "17f70702-b173-4438-9adb-a35755e7e522"
+      ]
+    },
+    "versionCode": 0
+  },
+  "17f70702-b173-4438-9adb-a35755e7e522@f9941": {
+    "url": "db://assets/picture/button.png@f9941",
+    "value": {
+      "depends": [
+        "17f70702-b173-4438-9adb-a35755e7e522@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "5cd361d1-5625-4e51-b137-ddf5bcecec2f": {
+    "url": "db://assets/picture/Snipaste_2024-03-25_12-47-14.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "5cd361d1-5625-4e51-b137-ddf5bcecec2f@6c48a": {
+    "url": "db://assets/picture/Snipaste_2024-03-25_12-47-14.png@6c48a",
+    "value": {
+      "depends": [
+        "5cd361d1-5625-4e51-b137-ddf5bcecec2f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "5cd361d1-5625-4e51-b137-ddf5bcecec2f@f9941": {
+    "url": "db://assets/picture/Snipaste_2024-03-25_12-47-14.png@f9941",
+    "value": {
+      "depends": [
+        "5cd361d1-5625-4e51-b137-ddf5bcecec2f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4aeec716-cdf1-4f04-8e2c-b662f741d03b": {
+    "url": "db://assets/picture/Rectangle 369.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "4aeec716-cdf1-4f04-8e2c-b662f741d03b@6c48a": {
+    "url": "db://assets/picture/Rectangle 369.png@6c48a",
+    "value": {
+      "depends": [
+        "4aeec716-cdf1-4f04-8e2c-b662f741d03b"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4aeec716-cdf1-4f04-8e2c-b662f741d03b@f9941": {
+    "url": "db://assets/picture/Rectangle 369.png@f9941",
+    "value": {
+      "depends": [
+        "4aeec716-cdf1-4f04-8e2c-b662f741d03b@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "706e5226-61b1-4823-9820-8f3fb33fbbbe": {
+    "url": "db://assets/picture/rectangle.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "706e5226-61b1-4823-9820-8f3fb33fbbbe@6c48a": {
+    "url": "db://assets/picture/rectangle.png@6c48a",
+    "value": {
+      "depends": [
+        "706e5226-61b1-4823-9820-8f3fb33fbbbe"
+      ]
+    },
+    "versionCode": 0
+  },
+  "706e5226-61b1-4823-9820-8f3fb33fbbbe@f9941": {
+    "url": "db://assets/picture/rectangle.png@f9941",
+    "value": {
+      "depends": [
+        "706e5226-61b1-4823-9820-8f3fb33fbbbe@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "826b7971-cfcc-45ab-9dec-babc04872f7a": {
+    "url": "db://assets/prefab/item.prefab",
+    "value": {
+      "depends": [
+        "706e5226-61b1-4823-9820-8f3fb33fbbbe@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 0
+  },
+  "947580fc-9f94-4f87-8d1f-3e3653cce219": {
+    "url": "db://assets/picture/button1.png",
+    "value": {},
+    "versionCode": 0
+  },
+  "947580fc-9f94-4f87-8d1f-3e3653cce219@6c48a": {
+    "url": "db://assets/picture/button1.png@6c48a",
+    "value": {
+      "depends": [
+        "947580fc-9f94-4f87-8d1f-3e3653cce219"
+      ]
+    },
+    "versionCode": 0
+  },
+  "947580fc-9f94-4f87-8d1f-3e3653cce219@f9941": {
+    "url": "db://assets/picture/button1.png@f9941",
+    "value": {
+      "depends": [
+        "947580fc-9f94-4f87-8d1f-3e3653cce219@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "cc2ee3b3-0d05-4884-85ff-6e4df18f7dde": {
+    "url": "db://assets/picture/button1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "cc2ee3b3-0d05-4884-85ff-6e4df18f7dde@6c48a": {
+    "url": "db://assets/picture/button1.png@6c48a",
+    "value": {
+      "depends": [
+        "cc2ee3b3-0d05-4884-85ff-6e4df18f7dde"
+      ]
+    },
+    "versionCode": 0
+  },
+  "cc2ee3b3-0d05-4884-85ff-6e4df18f7dde@f9941": {
+    "url": "db://assets/picture/button1.png@f9941",
+    "value": {
+      "depends": [
+        "cc2ee3b3-0d05-4884-85ff-6e4df18f7dde@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "dcff76f9-fa35-4bf1-85c4-9f37e7988acc": {
+    "url": "db://assets/picture/button.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "dcff76f9-fa35-4bf1-85c4-9f37e7988acc@6c48a": {
+    "url": "db://assets/picture/button.png@6c48a",
+    "value": {
+      "depends": [
+        "dcff76f9-fa35-4bf1-85c4-9f37e7988acc"
+      ]
+    },
+    "versionCode": 0
+  },
+  "dcff76f9-fa35-4bf1-85c4-9f37e7988acc@f9941": {
+    "url": "db://assets/picture/button.png@f9941",
+    "value": {
+      "depends": [
+        "dcff76f9-fa35-4bf1-85c4-9f37e7988acc@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "84de8af2-d180-4979-95ab-47c2933d27b5": {
+    "url": "db://assets/prefab/playBtn.prefab",
+    "value": {
+      "depends": [
+        "dcff76f9-fa35-4bf1-85c4-9f37e7988acc@f9941",
+        "151b0899-0823-4e0f-9912-c9e682b0f792",
+        "276de3a1-ef5e-4493-99ee-e6597e44bfdf",
+        "318f8e3b-5743-48fa-adf6-adee4fb3317b",
+        "1bdbe67f-a8a3-4841-97bb-46478dcabcc4"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 0
+  },
+  "4b588f86-2e12-485b-beb7-960396d95bce": {
+    "url": "db://assets/animation",
+    "value": {},
+    "versionCode": 0
+  },
+  "151b0899-0823-4e0f-9912-c9e682b0f792": {
+    "url": "db://assets/animation/playShow.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "276de3a1-ef5e-4493-99ee-e6597e44bfdf": {
+    "url": "db://assets/animation/playIdle.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "318f8e3b-5743-48fa-adf6-adee4fb3317b": {
+    "url": "db://assets/animation/playClick.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "1bdbe67f-a8a3-4841-97bb-46478dcabcc4": {
+    "url": "db://assets/animation/playClickUp.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  }
+}

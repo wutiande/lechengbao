@@ -1,10 +1,11 @@
-2024-3-25 19:25:43 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine
-2024-3-25 19:25:43 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
-2024-3-25 19:25:43 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\native
-2024-3-25 19:25:50 - log: [Scene] meshopt wasm decoder initialized
-2024-3-25 19:25:50 - log: [Scene] [box2d]:box2d wasm lib loaded.
-2024-3-25 19:25:50 - log: [Scene] [bullet]:bullet wasm lib loaded.
-2024-3-25 19:25:51 - log: [Scene] [PHYSICS]: using builtin.
-2024-3-25 19:25:51 - log: [Scene] Cocos Creator v3.8.2
-2024-3-25 19:25:51 - info: [Scene] Forward render pipeline initialized.
-2024-3-25 19:25:51 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2024-3-25 19:51:45 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine
+2024-3-25 19:51:45 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
+2024-3-25 19:51:45 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\native
+2024-3-25 19:51:52 - log: [Scene] meshopt wasm decoder initialized
+2024-3-25 19:51:52 - log: [Scene] [box2d]:box2d wasm lib loaded.
+2024-3-25 19:51:52 - log: [Scene] [bullet]:bullet wasm lib loaded.
+2024-3-25 19:51:52 - log: [Scene] [PHYSICS]: using builtin.
+2024-3-25 19:51:53 - log: [Scene] Cocos Creator v3.8.2
+2024-3-25 19:51:53 - info: [Scene] Forward render pipeline initialized.
+2024-3-25 19:51:53 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+2024-3-25 19:51:54 - warn: 为更好地打开脚本，请在 偏好设置 -> 程序管理器 -> 默认脚本编辑器 里配置打开脚本的应用程序

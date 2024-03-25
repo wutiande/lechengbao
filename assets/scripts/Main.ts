@@ -46,6 +46,15 @@ export class Main extends Component {
         }
     }
 
+    initView() {
+        this.question.active = true
+        this.question1.active = false
+        this.question2.active = false
+        this.question3.active = false
+    }
+
+    //题目1相关
+
     initData(){
         this.colorHash = [
             {
@@ -75,15 +84,6 @@ export class Main extends Component {
             },
         ]
     }
-
-    initView() {
-        this.question.active = true
-        this.question1.active = false
-        this.question2.active = false
-        this.question3.active = false
-    }
-
-    //题目1相关
 
     showQ1View(){
         this.question.active = false
